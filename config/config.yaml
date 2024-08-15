@@ -1,0 +1,7 @@
+# config/config.yaml
+
+verbose: true
+
+frames:
+  world: 'map'
+

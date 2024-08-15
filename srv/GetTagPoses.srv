@@ -1,0 +1,10 @@
+
+# Request message type
+
+---
+
+# Response message type
+geometry_msgs/PoseStamped pose_tag_5
+geometry_msgs/PoseStamped pose_tag_6
+geometry_msgs/PoseStamped pose_tag_7
+bool success
